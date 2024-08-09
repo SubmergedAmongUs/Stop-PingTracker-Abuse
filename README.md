@@ -68,6 +68,6 @@ After that, it just became normal to add a watermark to every mod you make.
 
 However, watermarking in general is a bad practice, especially for open-source software, and it makes no sense in the context of a mod.
 
-People already know they've downloaded your mod, so you don't need to display your mod's name in bold large letters for no reason. Also, frankly, most players do not really cares who the developers are. To them, it is just more meaningless text taking up screen space.
+People already know they've downloaded your mod, so you don't need to display your mod's name in bold large letters. Also, frankly, most players do not really cares who the developers are. To them, it is just more meaningless text taking up screen space.
 
 If you want your name on there for credits, find a different way of adding it. Or _at the very least_, make it not intrusive by hiding it during regular gameplay.
