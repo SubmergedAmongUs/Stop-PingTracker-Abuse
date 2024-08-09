@@ -1,7 +1,11 @@
+### NOTE: THIS IS A DRAFT AND IS WORK IN PROGRESS
+
+---
+
 ## Stop PingTracker Abuse
 This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
-`Revision 1, 9th of August 2024`
+`Draft 1, 9th of August 2024`
 
 ## Supporters
 Well-known individuals that support this initiative include:
