@@ -5,7 +5,7 @@
 ## Stop PingTracker Abuse
 This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
-`Draft 2, 9th of August 2024`
+`[In the process of being edited], 9th of August 2024`
 
 ## Supporters
 Well-known individuals that support this initiative include:
@@ -33,7 +33,7 @@ The PingTracker uses a smaller font to fit and is also displayed only when Subme
 
 ### Editing guidelines
 - You must ensure that the original functionality of the PingTracker remains, and not remove the ping indicator.
-- Each mod should add at most _one line_ to the ping tracker, usually with the mod name and version, unless there are very special circumstances which require multiple lines.
+- ~~Each mod should add at most _one line_ to the ping tracker, usually with the mod name and version, unless there are very special circumstances which require multiple lines.~~ (edit required)
 - Individual people such as authors, developers, collaborators, etc should not be named in the PingTracker.
 - You should not use a larger font size than the default for your PingTracker text, nor should you increase the overall scale of the PingTracker.
 - Moving the PingTracker from the default location (bottom middle) is acceptable, but you must place it adjacent to the top or bottom edges of the screen, with no padding.
@@ -62,6 +62,8 @@ We added a button in the main menu, which when clicked opens a pop-up displaying
 If you do not want to invest time in creating an alternative for displaying credits, which is understandable, you may use the PingTracker to display your credits, but _**only in the pre-game lobby**_. However, keep in mind that this is NOT preferred. 
 
 ### Reasoning
+_(explanation required about this initiative not against crediting, but instead limiting it to reasonability)_
+
 Have you ever seen a main-stream, popular mod for any other game to do this?
 
 The reason PingTrackers exist in the first place is because people used to add them on mods they sold to content creators during the early days of Among Us modding.
