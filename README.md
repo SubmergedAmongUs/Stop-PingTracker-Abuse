@@ -38,6 +38,8 @@ The PingTracker uses a smaller font to fit and is also displayed only when Subme
 - You should not use a larger font size than the default for your PingTracker text, nor should you increase the overall scale of the PingTracker.
 - Moving the PingTracker from the default location (bottom middle) is acceptable, but you must place it adjacent to the top or bottom edges of the screen, with no padding.
 
+Note: While this initiative only explicitly mentions the PingTracker, creating a separate text object to display your watermark is literally the same thing and it obviously included.
+
 ### What about credits?
 The PingTracker should not be how you implement credits. Having your name plastered on the screen at all times doesn't help you in any way, and it is also just an intrusive obstacle to both regular players, and streamers and their viewers.
 
