@@ -2,7 +2,7 @@
 
 ---
 
-## Stop PingTracker Abuse
+## PingTracker Guidelines
 This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
 `Draft 3, 9th of August 2024`
