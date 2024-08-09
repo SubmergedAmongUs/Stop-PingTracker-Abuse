@@ -5,22 +5,21 @@
 ## Stop PingTracker Abuse
 This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
-`Draft 1, 9th of August 2024`
+`Draft 2, 9th of August 2024`
 
 ## Supporters
 Well-known individuals that support this initiative include:
 - [Alexejhero](https://github.com/Alexejhero), Submerged developer and creator of this initiative
+- [probablyadnf](https://github.com/simonkellly), Submerged developer
 
 ## Guidelines
 
 ### What is the PingTracker for?
-The PingTracker should be used _at most_ for adding your mod name and version number so you can easily identify what version is being used in a video or stream.
+You should only add content to the PingTracker for diagnostic or information purposes. For example, displaying the current mod version, displaying role information or displaying current game mode is acceptable.
 
 **The PingTracker should not be used as a watermark or for displaying credits, especially during active gameplay.**
 
-You should not add content to the PingTracker so that _others_ see it, that should be only for you.
-
-Here is an example of a good PingTracker, from our [Submerged](https://github.com/SubmergedAmongUs/Submerged) mod:
+Here is an example of a good PingTracker patch, from our [Submerged](https://github.com/SubmergedAmongUs/Submerged) mod:
 
 <details>
 <summary>Click to view details</summary>
