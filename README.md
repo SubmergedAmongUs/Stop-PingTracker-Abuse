@@ -8,7 +8,7 @@ This is an initiative to standardize how Among Us mods should and should not alt
 `Draft 4.1, 10th of August 2024`
 
 ## Supporters
-Developers of well-known that support this initiative include:
+Developers of well-known mods that support this initiative include:
 - [Alexejhero](https://github.com/Alexejhero), Submerged developer and creator of this initiative
 - [MyDragonBreath](https://github.com/MyDragonBreath), Town of Us Reactivated developer _(mod changes pending)_
 - [probablyadnf](https://github.com/simonkellly), Submerged developer
