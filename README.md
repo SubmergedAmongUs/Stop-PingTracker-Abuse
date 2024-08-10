@@ -5,7 +5,7 @@
 # Stop PingTracker Abuse
 This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
-`Draft 4, 10th of August 2024`
+`Draft 4.1, 10th of August 2024`
 
 ## Supporters
 Developers of well-known that support this initiative include:
@@ -60,7 +60,7 @@ If you are adding other information to the PingTracker, such as displaying the c
 - The mod identifier should not be animated in any way.
 
 ### Best practices
-- The mod identifier should have the default color of the PingTracker (white).
+- The mod identifier should have the default color of the PingTracker (white). An exception is made for special versions of your mod, which may use a single different color. (For example, red for debug builds) _(TODO: Should this be expanded and better defined?)_ 
 - The mod identifier should use a smaller font size of `<size=50%>`.
 - The mod identifier should be placed after the ping indicator.
 - A mod identifier should be hidden if that mod is disabled or does not have any effect on current gameplay.
