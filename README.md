@@ -5,7 +5,7 @@
 # Stop PingTracker Abuse
 This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
-`Draft 4.1, 10th of August 2024`
+`Draft 4.2, 10th of August 2024`
 
 ## Supporters
 Developers of well-known mods that support this initiative include:
@@ -41,6 +41,7 @@ Note: While this initiative only explicitly mentions the PingTracker, creating a
 - You must ensure that the original functionality of the PingTracker remains, and not remove the ping indicator, unless removing the ping indicator is an explicit feature of your mod.
 - Individual people or companies such as authors, developers, collaborators, etc should not be named in the PingTracker.
 - You should not use a larger font size than the default for your PingTracker text, nor should you increase the overall scale of the PingTracker.
+- You should not change the font of the PingTracker.
 - Moving the PingTracker from the default location (bottom center) is acceptable, but you must place it adjacent to the top or bottom edges of the screen, with no padding from the edge of the screen.
 
 ### Best practices
