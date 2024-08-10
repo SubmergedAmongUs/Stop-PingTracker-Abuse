@@ -2,19 +2,20 @@
 
 ---
 
-## PingTracker Guidelines
+# Stop PingTracker Abuse
 This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
-`Draft 3, 9th of August 2024`
+`Draft 4, 10th of August 2024`
 
 ## Supporters
-Well-known individuals that support this initiative include:
+Developers of well-known that support this initiative include:
 - [Alexejhero](https://github.com/Alexejhero), Submerged developer and creator of this initiative
+- [MyDragonBreath](https://github.com/MyDragonBreath), Town of Us Reactivated developer _(mod changes pending)_
 - [probablyadnf](https://github.com/simonkellly), Submerged developer
 
-## Guidelines
+# Guidelines
 
-### What is the PingTracker for?
+## What is the PingTracker for?
 You should only add content to the PingTracker for diagnostic or information purposes. For example, displaying the current mod name and version, displaying role information or displaying current game mode is acceptable.
 
 **The PingTracker should not be used as a watermark or for displaying credits, especially during active gameplay.**
@@ -31,15 +32,41 @@ The PingTracker uses a smaller font to fit and is also displayed only when Subme
   
 </details>
 
-### Editing guidelines
-- You must ensure that the original functionality of the PingTracker remains, and not remove the ping indicator.
-- Individual people or companies such as authors, developers, collaborators, etc should not be named in the PingTracker.
-- You should not use a larger font size than the default for your PingTracker text, nor should you increase the overall scale of the PingTracker.
-- Moving the PingTracker from the default location (bottom middle) is acceptable, but you must place it adjacent to the top or bottom edges of the screen, with no padding.
+## General PingTracker guidelines
+The following guidelines apply to the PingTracker as a whole, and should be followed regardless of what kind of modifications you make.
 
 Note: While this initiative only explicitly mentions the PingTracker, creating a separate text object to display your watermark is literally the same thing and it obviously included.
 
-### What about credits?
+### Minimum requirements
+- You must ensure that the original functionality of the PingTracker remains, and not remove the ping indicator, unless removing the ping indicator is an explicit feature of your mod.
+- Individual people or companies such as authors, developers, collaborators, etc should not be named in the PingTracker.
+- You should not use a larger font size than the default for your PingTracker text, nor should you increase the overall scale of the PingTracker.
+- Moving the PingTracker from the default location (bottom center) is acceptable, but you must place it adjacent to the top or bottom edges of the screen, with no padding from the edge of the screen.
+
+### Suggested
+- The PingTracker should not be moved from it's default location (bottom center).
+- You should not add any other information to the PingTracker except mod identifiers (details below).
+- You should not use any kind of formatting (bold, italic, underline) for the purposes of drawing attention to the PingTracker.
+
+## Mod identifier guidelines
+Even though the PingTracker should not serve as a watermark, there should be a way to quickly identify what mods someone is playing from a video or a stream, in order to diagnose potential issues.
+
+The suggested way of doing this is including your mod name and description in the PingTracker. I will refer to this style of PingTracker patch as a "mod identifier". The following guidelines apply only to mod identifiers.
+
+If you are adding other information to the PingTracker, such as displaying the current game mode or role information, you do not need to follow these guidelines (for those specific instances of text). That being said, I advise not adding this kind of information to the PingTracker, and creating your own text objects instead, because you can never know what other mods might change about the PingTracker. 
+
+### Minimum requirements
+- The mod identifier should not use flashy or rainbow colors for the purposes of drawing attention to it. You should use at most two colors, with at most one change between them. (No alternating colors)
+- The mod identifier should not be animated in any way.
+
+### Suggested
+- The mod identifier should have the default color of the PingTracker (white).
+- The mod identifier should use a smaller font size of `<size=50%>`.
+- The mod identifier should be placed after the ping indicator.
+- A mod identifier should be hidden if that mod is disabled or does not have any effect on current gameplay.
+- If there are multiple mods installed, their mod identifiers should be displayed on the same line, in alphabetical order. _(TODO: Implement this as a Reactor feature)_
+
+## What about credits?
 I acknowledge that crediting people for their work is important, however naming them in the PingTracker is a relic of the past and should not be the first solution you think about. (More info in the [Reasoning](#reasoning) section)
 
 Having your name written on the screen at all times doesn't help you in any way, and it is also just an intrusive obstacle to both regular players, and streamers and their viewers.
@@ -59,10 +86,10 @@ We added a button in the main menu, which when clicked opens a pop-up displaying
   
 </details>
 
-### Exceptions
+## Exceptions
 If you do not want to invest time in creating an alternative for displaying credits, which is understandable, it is acceptable to use the PingTracker to display your credits, but _**only in the pre-game lobby**_. However, keep in mind that this is NOT preferred. 
 
-### Reasoning
+## Reasoning
 Have you ever seen a main-stream, popular mod for any other game to do this?
 
 The reason PingTracker watermarks exist in the first place is because people used to add them on mods they sold to content creators during the early days of Among Us modding. Since content creators only showed gameplay, that meant that modders would sometimes not be credited for their work unless they added their name in the PingTracker, and even so some YouTubers chose to put their face cam over them.
@@ -73,7 +100,7 @@ My name is written in both the credits menu of Submerged and in the repository, 
 
 I think that writing the mod name is obviously acceptable so people know what they're playing, but you don't need to make it bigger or increase the scale or make it flashy. It doesn't need to draw attention or take up more screen space, you don't want it to turn into a watermark.
 
-### Final thoughts
+## Final thoughts
 
 If all you're after is credits, look around at other modding communities and you will see how they do it. 
 
