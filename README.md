@@ -43,7 +43,7 @@ Note: While this initiative only explicitly mentions the PingTracker, creating a
 - You should not use a larger font size than the default for your PingTracker text, nor should you increase the overall scale of the PingTracker.
 - Moving the PingTracker from the default location (bottom center) is acceptable, but you must place it adjacent to the top or bottom edges of the screen, with no padding from the edge of the screen.
 
-### Suggested
+### Best practices
 - The PingTracker should not be moved from it's default location (bottom center).
 - You should not add any other information to the PingTracker except mod identifiers (details below).
 - You should not use any kind of formatting (bold, italic, underline) for the purposes of drawing attention to the PingTracker.
@@ -59,7 +59,7 @@ If you are adding other information to the PingTracker, such as displaying the c
 - The mod identifier should not use flashy or rainbow colors for the purposes of drawing attention to it. You should use at most two colors, with at most one change between them. (No alternating colors)
 - The mod identifier should not be animated in any way.
 
-### Suggested
+### Best practices
 - The mod identifier should have the default color of the PingTracker (white).
 - The mod identifier should use a smaller font size of `<size=50%>`.
 - The mod identifier should be placed after the ping indicator.
