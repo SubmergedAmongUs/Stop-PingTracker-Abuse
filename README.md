@@ -87,7 +87,7 @@ We added a button in the main menu, which when clicked opens a pop-up displaying
 </details>
 
 ## Exceptions
-If you do not want to invest time in creating an alternative for displaying credits, which is understandable, it is acceptable to use the PingTracker to display your credits, but _**only in the pre-game lobby**_. However, keep in mind that this is NOT preferred. 
+If you do not want to invest time in creating an alternative for displaying credits, which is understandable, it is acceptable to use the PingTracker to display your credits, but _**only in the pre-game lobby**_. However, keep in mind that this is NOT preferred, since other mods might also interfere with the PingTracker. As such, the second easiest solution would be creating your own text object to display the credits on.
 
 ## Reasoning
 Have you ever seen a main-stream, popular mod for any other game to do this?
