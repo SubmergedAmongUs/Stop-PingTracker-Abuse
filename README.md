@@ -1,11 +1,13 @@
 ### NOTE: THIS IS A DRAFT AND IS WORK IN PROGRESS
 
+`Draft 4.2, 11th of August 2024`
+
 ---
 
 # Stop PingTracker Abuse
-This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
+### This is an initiative to standardize how Among Us mods should and should not alter the PingTracker.
 
-`Draft 4.2, 10th of August 2024`
+![](./Images/Bruh.png)
 
 ## Supporters
 Developers of well-known mods that support this initiative include:
@@ -18,7 +20,7 @@ Developers of well-known mods that support this initiative include:
 ## What is the PingTracker for?
 The PingTracker should not be used to display information to the user. Instead, it should only be used for diagnostic purposes. For example, displaying the current mod name and version.
 
-**The PingTracker should not be used as a watermark or for displaying credits, especially during active gameplay.**
+**The PingTracker should not be used as a watermark or for displaying credits.**
 
 Using the PingTracker to display other kinds of information such as role information or game mode should generally be avoided.
 
