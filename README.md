@@ -16,9 +16,11 @@ Developers of well-known mods that support this initiative include:
 # Guidelines
 
 ## What is the PingTracker for?
-You should only add content to the PingTracker for diagnostic or information purposes. For example, displaying the current mod name and version, displaying role information or displaying current game mode is acceptable.
+The PingTracker should not be used to display information to the user. Instead, it should only be used for diagnostic purposes. For example, displaying the current mod name and version.
 
 **The PingTracker should not be used as a watermark or for displaying credits, especially during active gameplay.**
+
+Using the PingTracker to display other kinds of information such as role information or game mode should generally be avoided.
 
 Here is an example of a good PingTracker patch, from our [Submerged](https://github.com/SubmergedAmongUs/Submerged) mod:
 
