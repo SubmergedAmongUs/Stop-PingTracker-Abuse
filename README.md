@@ -1,6 +1,6 @@
-### NOTE: THIS IS A DRAFT AND IS WORK IN PROGRESS
+### This proposal has more or less achieved its purpose, and is no longer maintained.
 
-`Draft 4.2, 11th of August 2024`
+Last Update: `Draft 4.2, 11th of August 2024`
 
 ---
 
